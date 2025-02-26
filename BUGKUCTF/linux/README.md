@@ -1,4 +1,13 @@
-1.对linux.zip解压得到linux
-2.打开linux得到1.tar.gz
-3.对1.tar.gz解压两次得到test
-4.打开test得到flag,用010打开,搜索{,得到key{feb81d3834e2423c9903f4755464060b}
+
+1. **解压 `linux.zip`**  
+   解压后得到文件夹 `linux`。
+
+2. **打开 `linux` 文件夹**  
+   在 `linux` 文件夹中找到文件 `1.tar.gz`。
+
+3. **解压 `1.tar.gz`**  
+   对 `1.tar.gz` 进行两次解压，得到文件夹 `test`。
+
+4. **打开 `test` 文件夹**  
+   在 `test` 文件夹中找到文件 `flag`。  
+   使用 **010 Editor** 打开 `flag` 文件，搜索 `{`，找到以下密钥：
